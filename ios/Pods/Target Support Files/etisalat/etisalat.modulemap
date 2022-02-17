@@ -1,0 +1,6 @@
+framework module etisalat {
+  umbrella header "etisalat-umbrella.h"
+
+  export *
+  module * { export * }
+}

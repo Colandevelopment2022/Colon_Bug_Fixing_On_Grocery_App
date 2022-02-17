@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "js_runtime",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    }
+  ],
+  "generated": "2021-09-07T05:31:48.916062Z",
+  "generator": "pub",
+  "generatorVersion": "2.13.4"
+}
