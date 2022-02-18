@@ -55,7 +55,7 @@ class BaseNotifier extends ChangeNotifier {
     try {
       if (message.isNotEmpty) {
         Toast.show(message, this.context,
-            duration: Toast.LENGTH_SHORT, gravity: Toast.BOTTOM);
+            duration: Toast.LENGTH_LONG, gravity: Toast.BOTTOM);
       } else {
         log.e('server message is NULL | EMPTY');
       }
@@ -85,9 +85,14 @@ class BaseNotifier extends ChangeNotifier {
       log.e(e.toString());
     }
   }
-  void showCustomSnackBarMessageWithContext(String message,{ Color bgColor, Color txtColor, BuildContext ctx}) {
+
+  void showCustomSnackBarMessageWithContext(String message,
+      {Color bgColor, Color txtColor, BuildContext ctx}) {
     final snackBar = SnackBar(
-      content: Text(message, style: getStyleButtonText(ctx).copyWith(color: txtColor),),
+      content: Text(
+        message,
+        style: getStyleButtonText(ctx).copyWith(color: txtColor),
+      ),
       duration: Duration(seconds: AppConstants.TIME_SHOW_SNACK_BAR),
       backgroundColor: bgColor,
     );
@@ -98,7 +103,6 @@ class BaseNotifier extends ChangeNotifier {
       log.e('Context is Null, coudn\'t show snackbar toast');
     }
   }
-
 
   void showSnackBarContextDuration(var context, String message, int duration) {
     try {

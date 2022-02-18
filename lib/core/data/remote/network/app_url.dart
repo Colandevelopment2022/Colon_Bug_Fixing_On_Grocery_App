@@ -13,7 +13,9 @@ class AppUrl {
   static final baseHttp = "https://";
   static final baseUrl =
       "$baseHttp${EnvVarriables.env == 'dev' ? debugHost : baseHost}";
-  static final paymentBaseUrl = "http://ipg.comtrust.ae.2443";
+  static final paymentBaseUrl = EnvVarriables.env == 'dev'
+      ? 'https://demo-ipg.ctdev.comtrust.ae'
+      : "http://ipg.comtrust.ae.2443";
 
   //static final paymentBaseUrl = "https://demo-ipg.ctdev.comtrust.ae";
   static final baseImageUrl = '$baseUrl/pub/media/catalog/product/';

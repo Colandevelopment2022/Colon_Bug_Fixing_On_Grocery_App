@@ -135,7 +135,7 @@ class AppConstants {
   static const String NEXT = "Next";
   static const String EMAIL = "Email";
   static const String MOBILE = "Mobile";
-  static const String EMAIL = "Email/Mobile";
+  //static const String EMAIL = "Email/Mobile";
   static const String PASSWORD = "Password";
   static const String FORGOT_PASSWORD = "Forgot Password";
   static const String RESET_PASSWORD = 'Reset Password';

@@ -224,7 +224,7 @@ class ContactUsScreenState extends State<ContactUsScreen> {
                 if (_formKey.currentState.validate()) {
                   _onClickSubmitContactUs(contactNotifier).whenComplete(() {
                     contactNotifier
-                        .showToast('We got your query,get back to you soon ');
+                        .showToast('We got your query,get back to you soon ',);
                     stateDrawer.selectedDrawerItem =
                         AppConstants.DRAWER_ITEM_HOME;
                     stateDrawer.selectedId = AppConstants.DRAWER_ITEM_HOME;
