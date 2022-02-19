@@ -13,7 +13,7 @@ import 'package:thought_factory/utils/app_validators.dart';
 import 'my_order_detail_screen.dart';
 
 var orderidstored;
-bool dataurlcheck;
+bool dataurlcheck = false ;
 
 class MyOrderScreen extends StatefulWidget {
   @override

@@ -217,7 +217,14 @@ class _LoginScreenState extends State<LoginScreen> {
                                     : buildCustomPrefixIcon(
                                         AppCustomIcon.icon_mail)),
                           ),
-                        ), //text field: email
+                        ),
+                  SizedBox(
+                    height: 5,
+                  ),
+                  Text(
+                    "Enter mobile number without country code",
+                    style: getFormNormalTextStyle(context),
+                  ),//text field: email
                   otpsent
                       ? TextFieldPin(
                           filled: true,
@@ -415,7 +422,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: <Widget>[
                           Text(
-                            'New to ebazzar.ae ',
+                            'New to ebazaar',
                             style: getFormNormalTextStyle(context),
                           ),
                           InkWell(

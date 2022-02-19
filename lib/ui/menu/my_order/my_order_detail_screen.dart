@@ -143,7 +143,7 @@ class MyOrderDetailScreenState extends State<MyOrderDetailScreen> {
                     //   ),
                     // ),
 
-                    dataurlcheck
+                    dataurlcheck != null && dataurlcheck
                         ? GestureDetector(
                             onTap: () async {
                               print("data: $data");

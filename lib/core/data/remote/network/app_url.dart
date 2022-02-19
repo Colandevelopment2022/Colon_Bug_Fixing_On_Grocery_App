@@ -18,12 +18,25 @@ class AppUrl {
       : "http://ipg.comtrust.ae.2443";
 
   //static final paymentBaseUrl = "https://demo-ipg.ctdev.comtrust.ae";
-  static final baseImageUrl = '$baseUrl/pub/media/catalog/product/';
-  static final baseImageUrl1 = '$baseUrl/pub/media/catalog/product';
-  static final distImageUrl = "$baseUrl/pub/media/Distributors/Sellerlogo/";
-  static final distImageUrl1 = "$baseUrl/pub/media/Distributors/Sellerlogo";
-  static final baseCategoryImageUrl = "$baseUrl/pub/media/catalog/category/";
-  static final baseCategoryImageUrl1 = "$baseUrl/pub/media/catalog/category";
+  static final baseImageUrl = EnvVarriables.env == 'dev'
+      ? '$baseUrl/dev/pub/media/catalog/product/'
+      : '$baseUrl/pub/media/catalog/product/';
+  static final baseImageUrl1 = EnvVarriables.env == 'dev'
+      ? '$baseUrl/dev/pub/media/catalog/product'
+      : '$baseUrl/pub/media/catalog/product';
+  static final distImageUrl = EnvVarriables.env == 'dev'
+      ? '$baseUrl/dev/pub/media/Distributors/Sellerlogo/'
+      : "$baseUrl/pub/media/Distributors/Sellerlogo/";
+  static final distImageUrl1 = EnvVarriables.env == 'dev'
+      ? '$baseUrl/dev/pub/media/Distributors/Sellerlogo/'
+      : "$baseUrl/pub/media/Distributors/Sellerlogo";
+  static final baseCategoryImageUrl = EnvVarriables.env == 'dev'
+      ? '$baseUrl/dev/pub/media/catalog/category/'
+      : "$baseUrl/pub/media/catalog/category/";
+  static final baseCategoryImageUrl1 = EnvVarriables.env == 'dev'
+      ? '$baseUrl/pub/media/catalog/category'
+      : "$baseUrl/pub/media/catalog/category";
+
 
   //register
   static final pathRegister = "/rest/default/V1/customers"; //POST
