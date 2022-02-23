@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/97c704bc9f35fabac5ed5e811f5f3e3d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/97c704bc9f35fabac5ed5e811f5f3e3d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/97c704bc9f35fabac5ed5e811f5f3e3d/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

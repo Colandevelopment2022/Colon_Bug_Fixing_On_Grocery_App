@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 children: <Widget>[
                   RefreshIndicator(
                       child: ModalProgressHUD(
-                        inAsyncCall: homeNotifier.isLoading,
+                        inAsyncCall: false,
                         child: CustomScrollView(
                           slivers: <Widget>[
                             SliverToBoxAdapter(

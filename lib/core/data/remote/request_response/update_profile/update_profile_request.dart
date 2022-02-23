@@ -43,7 +43,7 @@ class Customer {
     lastname = json['lastname'];
     storeId = json['storeId'];
     websiteId = json['websiteId'];
-    phoneNumber = json['customer_mobile'];
+   // phoneNumber = json['customer_mobile'];
   }
 
   Map<String, dynamic> toJson() {
@@ -53,7 +53,7 @@ class Customer {
     data['firstname'] = this.firstname;
     data['lastname'] = this.lastname;
     data['storeId'] = this.storeId;
-    data['customer_mobile'] = this.phoneNumber;
+   // data['customer_mobile'] = this.phoneNumber;
     data['websiteId'] = this.websiteId;
     return data;
   }

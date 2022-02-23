@@ -28,6 +28,7 @@ class EditProfile extends StatefulWidget {
 }
 
 class EditProfileState extends State<EditProfile> {
+
   bool isAndroid;
   int currentSelection = 0;
   int countryValue = 0;
@@ -52,7 +53,7 @@ class EditProfileState extends State<EditProfile> {
   BuildContext _scfoldContext = null;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) { print('oops');
     ProfileInfo profileInfo = ModalRoute.of(context).settings.arguments;
     isAndroid = checkPlatForm(context);
     return ChangeNotifierProvider<MyProfileUpdateNotifier>(
@@ -117,6 +118,7 @@ class EditProfileState extends State<EditProfile> {
               (stateEditProfile.imageLocalFile == null)
                   ? CachedNetworkImage(
                       imageUrl:
+                     // 'https://dev.ebazaar.ae/dev/pub/media/logo/default/Logo_1.png',
                           profileInfo != null ? profileInfo.imageUrl ?? "" : '',
                       //'http://i.imgur.com/QSev0hg.jpg',
                       imageBuilder: (context, imageProvider) => Container(

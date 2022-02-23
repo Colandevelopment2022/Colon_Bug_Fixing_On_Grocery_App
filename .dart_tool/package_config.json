@@ -381,9 +381,9 @@
     },
     {
       "name": "js",
-      "rootUri": "file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3",
+      "rootUri": "file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.16"
     },
     {
       "name": "location",
@@ -465,7 +465,7 @@
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "rootUri": "file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -705,7 +705,7 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8",
+      "rootUri": "file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.9",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -890,7 +890,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2022-02-17T07:20:13.391944Z",
+  "generated": "2022-02-18T13:26:53.624840Z",
   "generator": "pub",
-  "generatorVersion": "2.16.0"
+  "generatorVersion": "2.17.0-69.2.beta"
 }

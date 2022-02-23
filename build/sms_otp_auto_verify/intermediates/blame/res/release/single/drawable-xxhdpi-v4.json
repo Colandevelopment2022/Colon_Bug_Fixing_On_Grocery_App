@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]

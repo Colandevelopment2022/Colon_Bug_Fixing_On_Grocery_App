@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.oohyugi.sms_otp_auto_verify",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "sms_otp_auto_verify-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.oohyugi.sms_otp_auto_verify",
+        "split": ""
+      }
+    }
+  ]
+}

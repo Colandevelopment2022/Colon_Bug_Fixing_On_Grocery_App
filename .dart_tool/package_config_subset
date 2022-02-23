@@ -243,9 +243,9 @@ intl
 file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/
 file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib/
 js
-2.12
-file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/
-file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib/
+2.16
+file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4/
+file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4/lib/
 location
 2.12
 file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.3.0/
@@ -300,8 +300,8 @@ file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/octo_ima
 file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.1/lib/
 path
 2.12
-file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/
-file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib/
+file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.1/
+file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.1/lib/
 path_drawing
 2.12
 file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1+1/
@@ -456,8 +456,8 @@ file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/term_gly
 file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib/
 test_api
 2.12
-file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8/
-file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8/lib/
+file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.9/
+file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.9/lib/
 toast
 2.0
 file:///Users/ttf/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/toast-0.1.5/

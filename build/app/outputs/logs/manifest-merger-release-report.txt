@@ -1,0 +1,510 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+MERGED from [:geolocator_android] /Users/ttf/Downloads/Grocery-final/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] /Users/ttf/Downloads/Grocery-final/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ttf/Downloads/Grocery-final/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/ttf/Downloads/Grocery-final/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] /Users/ttf/Downloads/Grocery-final/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:geocoder] /Users/ttf/Downloads/Grocery-final/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] /Users/ttf/Downloads/Grocery-final/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] /Users/ttf/Downloads/Grocery-final/build/webview_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:etisalat] /Users/ttf/Downloads/Grocery-final/build/etisalat/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] /Users/ttf/Downloads/Grocery-final/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-29:12
+MERGED from [:connectivity] /Users/ttf/Downloads/Grocery-final/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player] /Users/ttf/Downloads/Grocery-final/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:google_sign_in] /Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_sign_in_web] /Users/ttf/Downloads/Grocery-final/build/google_sign_in_web/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f0c002c810b2e4758d73c158491e39d/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f36c4efcaa2676121bcc51cb167fda65/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9dae66851d005366568e0cc958aaa5d9/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/27a3fedaf3f97145a3f69ef0f2ead4c9/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/5ba09a06b87f8788bdf4f279b41b6502/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/afbff7cb1582ef731566eb9829708859/jetified-exoplayer-dash-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b0eda2fe1e7f35b13c50d1dcfcea5973/jetified-exoplayer-smoothstreaming-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/60c32db4f6a3369af7ebbba1617a2693/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/3f805feb009d5ab058c4271ea6518d3e/jetified-exoplayer-extractor-2.14.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/55304cb5749a36f92be6e72dd6258a8d/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.browser:browser:1.3.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/bfb976e932bee473cf02f3cbec1d57a5/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/1ac2eccf1c792b9e80187c4fe370faff/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/3285b2b8aab30260134d1899fdc97198/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b48c1bed1dd881749dfa29090daa3159/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/31225e3681231a0416e9f6365ac7e393/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/01062047732fc8bef68b81c5e44e80eb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0c6bfe2c3c7e9087f09a427560cc89d8/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/53067259873de90faa0431e1dae91bc8/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0908313e6b72adcd05e733a774a09cbe/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f9a4632e88c4f1f49ef55d005d2430d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/6add4c12f86266ff4f5be69a612f7e7e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/cff195fb0824cedb761a21727807acdd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b8b0bd9e9c1a3ac1eb4780ca53ddc81a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/58c5af9e00bb62d717770b77e08be831/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/aab635718b389a1648a5dfc3da8419a1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/4846367693eaff5cc12545f48c05ffa4/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e7083ac8097fe2b5ddbdc8f343f95059/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/a1cb941a5ad4d6b45cb4d05b84f5e3a4/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/4ab485f0ff9b9610206a1089dbf8ccdc/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f0f0e7c04a62eda93b02a671e3fb0ed5/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/894604cc654235618bddeccaac3637ad/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/8a1890d500889da6cdbc8f7bdd6e8f7b/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/d0e593cb06bbb37c0de9c40db37a661b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/5a04d7931f5538fc4ff4ba4444c75c7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e7e88d134801d5d4fba7bf6288511680/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/88eca9597cb878b3b9997359e0077271/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c8a717745f2554569a49d0d6fc8a1269/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9506fd3ff45254b51e3736121676f188/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/37dcd128a1ea2d075c423658794b9ac1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/241cfa612f0b5791b8dd8ded6819932b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:1-53:12
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:google_sign_in] /Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:6:22-80
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:9:5-51:19
+MERGED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-27:19
+MERGED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9dae66851d005366568e0cc958aaa5d9/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9dae66851d005366568e0cc958aaa5d9/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/1ac2eccf1c792b9e80187c4fe370faff/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/1ac2eccf1c792b9e80187c4fe370faff/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0908313e6b72adcd05e733a774a09cbe/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0908313e6b72adcd05e733a774a09cbe/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f9a4632e88c4f1f49ef55d005d2430d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f9a4632e88c4f1f49ef55d005d2430d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f0f0e7c04a62eda93b02a671e3fb0ed5/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f0f0e7c04a62eda93b02a671e3fb0ed5/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/88eca9597cb878b3b9997359e0077271/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/88eca9597cb878b3b9997359e0077271/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f0f0e7c04a62eda93b02a671e3fb0ed5/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:11:9-32
+	android:icon
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:10:9-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:12:9-13:70
+	android:value
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:13:13-68
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:12:20-65
+activity#com.app.thought_factory.shop_owner.PaymentApiCallingActivity
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:14:9-15:56
+	android:theme
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:15:13-54
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:14:19-60
+activity#com.app.thought_factory.shop_owner.MainActivity
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:17:9-50:20
+	android:launchMode
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:19:13-144
+	android:theme
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:18:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:36:13-38:57
+	android:resource
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:38:17-54
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:37:17-72
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:39:13-41:66
+	android:resource
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:41:17-63
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:40:17-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:45:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:47:13-49:37
+	android:value
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:49:17-34
+	android:name
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:48:17-48
+uses-sdk
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+MERGED from [:geolocator_android] /Users/ttf/Downloads/Grocery-final/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/ttf/Downloads/Grocery-final/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/ttf/Downloads/Grocery-final/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/ttf/Downloads/Grocery-final/build/google_maps_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ttf/Downloads/Grocery-final/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/ttf/Downloads/Grocery-final/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/ttf/Downloads/Grocery-final/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/ttf/Downloads/Grocery-final/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/ttf/Downloads/Grocery-final/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/ttf/Downloads/Grocery-final/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/ttf/Downloads/Grocery-final/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/ttf/Downloads/Grocery-final/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/ttf/Downloads/Grocery-final/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/ttf/Downloads/Grocery-final/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/ttf/Downloads/Grocery-final/build/webview_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/ttf/Downloads/Grocery-final/build/webview_flutter_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:etisalat] /Users/ttf/Downloads/Grocery-final/build/etisalat/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:etisalat] /Users/ttf/Downloads/Grocery-final/build/etisalat/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/ttf/Downloads/Grocery-final/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/ttf/Downloads/Grocery-final/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/ttf/Downloads/Grocery-final/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/ttf/Downloads/Grocery-final/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/ttf/Downloads/Grocery-final/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/ttf/Downloads/Grocery-final/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/ttf/Downloads/Grocery-final/build/google_sign_in/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_web] /Users/ttf/Downloads/Grocery-final/build/google_sign_in_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in_web] /Users/ttf/Downloads/Grocery-final/build/google_sign_in_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f0c002c810b2e4758d73c158491e39d/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f0c002c810b2e4758d73c158491e39d/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f36c4efcaa2676121bcc51cb167fda65/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f36c4efcaa2676121bcc51cb167fda65/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9dae66851d005366568e0cc958aaa5d9/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9dae66851d005366568e0cc958aaa5d9/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/27a3fedaf3f97145a3f69ef0f2ead4c9/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/27a3fedaf3f97145a3f69ef0f2ead4c9/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/5ba09a06b87f8788bdf4f279b41b6502/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/5ba09a06b87f8788bdf4f279b41b6502/jetified-exoplayer-hls-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/afbff7cb1582ef731566eb9829708859/jetified-exoplayer-dash-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/afbff7cb1582ef731566eb9829708859/jetified-exoplayer-dash-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b0eda2fe1e7f35b13c50d1dcfcea5973/jetified-exoplayer-smoothstreaming-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b0eda2fe1e7f35b13c50d1dcfcea5973/jetified-exoplayer-smoothstreaming-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/60c32db4f6a3369af7ebbba1617a2693/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/60c32db4f6a3369af7ebbba1617a2693/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/3f805feb009d5ab058c4271ea6518d3e/jetified-exoplayer-extractor-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/3f805feb009d5ab058c4271ea6518d3e/jetified-exoplayer-extractor-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/55304cb5749a36f92be6e72dd6258a8d/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/55304cb5749a36f92be6e72dd6258a8d/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/bfb976e932bee473cf02f3cbec1d57a5/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/bfb976e932bee473cf02f3cbec1d57a5/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/1ac2eccf1c792b9e80187c4fe370faff/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/1ac2eccf1c792b9e80187c4fe370faff/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/3285b2b8aab30260134d1899fdc97198/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/3285b2b8aab30260134d1899fdc97198/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b48c1bed1dd881749dfa29090daa3159/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b48c1bed1dd881749dfa29090daa3159/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/31225e3681231a0416e9f6365ac7e393/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/31225e3681231a0416e9f6365ac7e393/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/01062047732fc8bef68b81c5e44e80eb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/01062047732fc8bef68b81c5e44e80eb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0c6bfe2c3c7e9087f09a427560cc89d8/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0c6bfe2c3c7e9087f09a427560cc89d8/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/53067259873de90faa0431e1dae91bc8/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/53067259873de90faa0431e1dae91bc8/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0908313e6b72adcd05e733a774a09cbe/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0908313e6b72adcd05e733a774a09cbe/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f9a4632e88c4f1f49ef55d005d2430d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9f9a4632e88c4f1f49ef55d005d2430d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/6add4c12f86266ff4f5be69a612f7e7e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/6add4c12f86266ff4f5be69a612f7e7e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/cff195fb0824cedb761a21727807acdd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/cff195fb0824cedb761a21727807acdd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b8b0bd9e9c1a3ac1eb4780ca53ddc81a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/b8b0bd9e9c1a3ac1eb4780ca53ddc81a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/58c5af9e00bb62d717770b77e08be831/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/58c5af9e00bb62d717770b77e08be831/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/aab635718b389a1648a5dfc3da8419a1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/aab635718b389a1648a5dfc3da8419a1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/4846367693eaff5cc12545f48c05ffa4/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/4846367693eaff5cc12545f48c05ffa4/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e7083ac8097fe2b5ddbdc8f343f95059/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e7083ac8097fe2b5ddbdc8f343f95059/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/a1cb941a5ad4d6b45cb4d05b84f5e3a4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/a1cb941a5ad4d6b45cb4d05b84f5e3a4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/4ab485f0ff9b9610206a1089dbf8ccdc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/4ab485f0ff9b9610206a1089dbf8ccdc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f0f0e7c04a62eda93b02a671e3fb0ed5/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f0f0e7c04a62eda93b02a671e3fb0ed5/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/894604cc654235618bddeccaac3637ad/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/894604cc654235618bddeccaac3637ad/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/8a1890d500889da6cdbc8f7bdd6e8f7b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/8a1890d500889da6cdbc8f7bdd6e8f7b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/d0e593cb06bbb37c0de9c40db37a661b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/d0e593cb06bbb37c0de9c40db37a661b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/5a04d7931f5538fc4ff4ba4444c75c7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/5a04d7931f5538fc4ff4ba4444c75c7e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e7e88d134801d5d4fba7bf6288511680/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e7e88d134801d5d4fba7bf6288511680/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/88eca9597cb878b3b9997359e0077271/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/88eca9597cb878b3b9997359e0077271/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c8a717745f2554569a49d0d6fc8a1269/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c8a717745f2554569a49d0d6fc8a1269/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9506fd3ff45254b51e3736121676f188/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/9506fd3ff45254b51e3736121676f188/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/37dcd128a1ea2d075c423658794b9ac1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/37dcd128a1ea2d075c423658794b9ac1/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/241cfa612f0b5791b8dd8ded6819932b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/241cfa612f0b5791b8dd8ded6819932b/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+receiver#com.oohyugi.sms_otp_auto_verify.SmsBroadcastReceiver
+ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:enabled
+		ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:10:13-35
+	android:exported
+		ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:11:13-36
+	android:permission
+		ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:12:13-87
+	android:name
+		ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:9:13-80
+intent-filter#action:name:com.google.android.gms.auth.api.phone.SMS_RETRIEVED
+ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:29
+action#com.google.android.gms.auth.api.phone.SMS_RETRIEVED
+ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:14:17-94
+	android:name
+		ADDED from [:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:14:25-91
+queries
+ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
+intent
+ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-17:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:9-20:55
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:13-112
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:9-120
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:19-117
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] /Users/ttf/Downloads/Grocery-final/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/60c32db4f6a3369af7ebbba1617a2693/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/60c32db4f6a3369af7ebbba1617a2693/jetified-exoplayer-core-2.14.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/55304cb5749a36f92be6e72dd6258a8d/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] /Users/ttf/.gradle/caches/transforms-2/files-2.1/55304cb5749a36f92be6e72dd6258a8d/jetified-exoplayer-common-2.14.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:connectivity] /Users/ttf/Downloads/Grocery-final/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:9:13-70
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:12:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58

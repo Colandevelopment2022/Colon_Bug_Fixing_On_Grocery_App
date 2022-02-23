@@ -39,6 +39,7 @@ class MyProfileUpdateNotifier extends BaseNotifier {
   File get imageLocalFile => _imageLocalFile;
 
   set imageLocalFile(File value) {
+    // print(value);  print('ohoo');
     _imageLocalFile = value;
     notifyListeners();
   }
@@ -62,7 +63,10 @@ class MyProfileUpdateNotifier extends BaseNotifier {
   MyProfileUpdateNotifier(BuildContext context, ProfileInfo profileInfo) {
     super.context = context;
     this.profileInfo = profileInfo;
+    // print('ohoo');
+    print(profileInfo);
     setUpData(profileInfo);
+    super.isLoading = false;
   }
 
   EditProfileRepository get editProfileRepository => _editProfileRepository;

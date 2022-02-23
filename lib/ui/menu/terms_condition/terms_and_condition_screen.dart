@@ -4,6 +4,7 @@ import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:provider/provider.dart';
 import 'package:thought_factory/core/notifier/common_notifier.dart';
 import 'package:thought_factory/core/notifier/termsandcondition_notifier.dart';
+import 'package:thought_factory/utils/app_text_style.dart';
 
 class TermsAndConditionScreen extends StatefulWidget {
   @override
@@ -27,16 +28,32 @@ class TermsAndConditionScreenContent extends State<TermsAndConditionScreen> {
                             null)
                     ? SingleChildScrollView(
                         padding: EdgeInsets.all(20),
-                        child: Html(
-                          data: termsAndConditionNotifier
-                              .termsAndConditionResponse.content,
+                        child: Column(
+                          children: [
+                            Html(
+                              data: termsAndConditionNotifier
+                                  .termsAndConditionResponse.content,
+                            ),
+                            Text(
+                              '@2020 ebazaar. All Rights Reserved',
+                              style: getFormNormalTextStyle(context),
+                            )
+                          ],
                         ))
                     : (termsAndConditionNotifier.isLoading)
                         ? Container()
                         : Container(
-                            child: Center(
-                              child: Text(termsAndConditionNotifier
-                                  .termsAndConditionResponse.message),
+                            child: Column(
+                              children: [
+                                Center(
+                                  child: Text(termsAndConditionNotifier
+                                      .termsAndConditionResponse.message),
+                                ),
+                                Text(
+                                  '@2020 ebazaar. All Rights Reserved',
+                                  style: getFormNormalTextStyle(context),
+                                )
+                              ],
                             ),
                           )),
       ),

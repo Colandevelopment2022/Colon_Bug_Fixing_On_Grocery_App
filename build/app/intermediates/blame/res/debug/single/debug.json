@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/drawable_ic_launcher_2.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/drawable/ic_launcher_2.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/drawable_bg_splash_screen.jpg.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/drawable/bg_splash_screen.jpg"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/layout_activity_payment_api_calling.xml.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/layout/activity_payment_api_calling.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/drawable_logo_thought_factory.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/drawable/logo_thought_factory.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ttf/Downloads/Grocery-final/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

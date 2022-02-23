@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

@@ -1,0 +1,285 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.thought_factory.shop_owner"
+4    android:versionCode="7"
+5    android:versionName="1.0.6" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+12-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:6:5-83
+12-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:6:22-80
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:7:5-79
+13-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:8:5-81
+14-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:8:22-78
+15
+16    <queries>
+16-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
+17        <intent>
+17-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-10:18
+18            <action android:name="android.support.customtabs.action.CustomTabsService" />
+18-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-90
+18-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:21-87
+19        </intent>
+20    </queries>
+21
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->[:connectivity] /Users/ttf/Downloads/Grocery-final/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+22-->[:connectivity] /Users/ttf/Downloads/Grocery-final/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+23
+24    <uses-feature
+24-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+25        android:glEsVersion="0x00020000"
+25-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+26        android:required="true" />
+26-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+27
+28    <application
+28-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:9:5-51:19
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.6.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/f0f0e7c04a62eda93b02a671e3fb0ed5/core-1.6.0/AndroidManifest.xml:24:18-86
+30        android:icon="@mipmap/launcher_icon"
+30-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:10:9-45
+31        android:label="ebazaar" >
+31-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:11:9-32
+32        <meta-data
+32-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:12:9-13:70
+33            android:name="com.google.android.geo.API_KEY"
+33-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:12:20-65
+34            android:value="AIzaSyDiI5EXleWEpxCkjSjJrFzYs38KK6sYcaw" />
+34-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:13:13-68
+35
+36        <activity
+36-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:14:9-15:56
+37            android:name="com.app.thought_factory.shop_owner.PaymentApiCallingActivity"
+37-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:14:19-60
+38            android:theme="@style/PaymentScreenTheme" />
+38-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:15:13-54
+39        <activity
+39-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:17:9-50:20
+40            android:name="com.app.thought_factory.shop_owner.MainActivity"
+40-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:18:13-41
+41            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+41-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:19:13-144
+42            android:hardwareAccelerated="true"
+42-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:20:13-47
+43            android:launchMode="singleTop"
+43-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:21:13-43
+44            android:theme="@style/LaunchTheme"
+44-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:22:13-47
+45            android:windowSoftInputMode="adjustResize" >
+45-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:23:13-55
+46
+47            <!--
+48                 This keeps the window background of the activity showing
+49                 until Flutter renders its first frame. It can be removed if
+50                 there is no splash screen (such as the default splash screen
+51                 defined in @style/LaunchTheme).
+52            -->
+53            <!--
+54                <meta-data
+55                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+56                android:value="true" />
+57            -->
+58            <meta-data
+58-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:36:13-38:57
+59                android:name="io.flutter.embedding.android.NormalTheme"
+59-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:37:17-72
+60                android:resource="@style/NormalTheme" />
+60-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:38:17-54
+61            <meta-data
+61-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:39:13-41:66
+62                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+62-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:40:17-81
+63                android:resource="@drawable/launch_background" />
+63-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:41:17-63
+64
+65            <intent-filter>
+65-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:43:13-46:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:44:17-69
+66-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:44:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:45:17-77
+68-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:45:27-74
+69            </intent-filter>
+70
+71            <meta-data
+71-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:47:13-49:37
+72                android:name="flutterEmbedding"
+72-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:48:17-48
+73                android:value="2" />
+73-->/Users/ttf/Downloads/Grocery-final/android/app/src/main/AndroidManifest.xml:49:17-34
+74        </activity>
+75
+76        <provider
+76-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+77            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+77-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+78            android:authorities="com.app.thought_factory.shop_owner.flutter.image_provider"
+78-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+79            android:exported="false"
+79-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+80            android:grantUriPermissions="true" >
+80-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+81            <meta-data
+81-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+82                android:name="android.support.FILE_PROVIDER_PATHS"
+82-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+83                android:resource="@xml/flutter_image_picker_file_paths" />
+83-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+84        </provider>
+85
+86        <activity
+86-->[:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+87            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+87-->[:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+88            android:exported="false"
+88-->[:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+89            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+89-->[:url_launcher_android] /Users/ttf/Downloads/Grocery-final/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+90
+91        <receiver
+91-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+92            android:name="com.oohyugi.sms_otp_auto_verify.SmsBroadcastReceiver"
+92-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:9:13-80
+93            android:enabled="true"
+93-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:10:13-35
+94            android:exported="true"
+94-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:11:13-36
+95            android:permission="com.google.android.gms.auth.api.phone.permission.SEND" >
+95-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:12:13-87
+96            <intent-filter>
+96-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:29
+97                <action android:name="com.google.android.gms.auth.api.phone.SMS_RETRIEVED" />
+97-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:14:17-94
+97-->[:sms_otp_auto_verify] /Users/ttf/Downloads/Grocery-final/build/sms_otp_auto_verify/intermediates/library_manifest/release/AndroidManifest.xml:14:25-91
+98            </intent-filter>
+99        </receiver>
+100
+101        <activity
+101-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-17:47
+102            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
+102-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
+103            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+103-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
+104            android:theme="@style/AppTheme" />
+104-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+105        <activity
+105-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:9-20:55
+106            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
+106-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:13-112
+107            android:theme="@style/ThemeTransparent" />
+107-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-52
+108
+109        <receiver android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver" />
+109-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:9-120
+109-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:19-117
+110
+111        <meta-data
+111-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:9-26:36
+112            android:name="io.flutter.embedded_views_preview"
+112-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-61
+113            android:value="true" />
+113-->[:flutter_inappwebview] /Users/ttf/Downloads/Grocery-final/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-33
+114
+115        <provider
+115-->[:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+116            android:name="io.flutter.plugins.share.ShareFileProvider"
+116-->[:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:9:13-70
+117            android:authorities="com.app.thought_factory.shop_owner.flutter.share_provider"
+117-->[:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+118            android:exported="false"
+118-->[:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+119            android:grantUriPermissions="true" >
+119-->[:share] /Users/ttf/Downloads/Grocery-final/build/share/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+120            <meta-data
+120-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+121                android:name="android.support.FILE_PROVIDER_PATHS"
+121-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+122                android:resource="@xml/flutter_share_file_paths" />
+122-->[:image_picker] /Users/ttf/Downloads/Grocery-final/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+123        </provider>
+124
+125        <service
+125-->[:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:11:9-15:56
+126            android:name="com.lyokone.location.FlutterLocationService"
+126-->[:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:12:13-71
+127            android:enabled="true"
+127-->[:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:13:13-35
+128            android:exported="false"
+128-->[:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+129            android:foregroundServiceType="location" />
+129-->[:location] /Users/ttf/Downloads/Grocery-final/build/location/intermediates/library_manifest/release/AndroidManifest.xml:15:13-53
+130
+131        <uses-library
+131-->[androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+132            android:name="androidx.window.extensions"
+132-->[androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+133            android:required="false" />
+133-->[androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+134        <uses-library
+134-->[androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+135            android:name="androidx.window.sidecar"
+135-->[androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+136            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
+136-->[androidx.window:window:1.0.0-beta04] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e01f2bc418deb8f9084c3446d6325fd/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+137        <uses-library
+137-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+138            android:name="org.apache.http.legacy"
+138-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+139            android:required="false" />
+139-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/c2988f04edb75adaea97e2af6c6f8e9e/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+140
+141        <activity
+141-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+142            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+142-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+143            android:excludeFromRecents="true"
+143-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+144            android:exported="false"
+144-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+145            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+145-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+146        <!--
+147            Service handling Google Sign-In user revocation. For apps that do not integrate with
+148            Google Sign-In, this service will never be started.
+149        -->
+150        <service
+150-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+151            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+151-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+152            android:exported="true"
+152-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+153            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+153-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/de777181b5606d9c87d0d20ff5824dfb/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+154
+155        <activity
+155-->[com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+156            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+156-->[com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+157            android:exported="false"
+157-->[com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+158            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+158-->[com.google.android.gms:play-services-base:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/e2461f8f8fe5bd64c259d8f8b07f6874/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+159
+160        <meta-data
+160-->[com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+161            android:name="com.google.android.gms.version"
+161-->[com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58
+162            android:value="@integer/google_play_services_version" />
+162-->[com.google.android.gms:play-services-basement:17.1.0] /Users/ttf/.gradle/caches/transforms-2/files-2.1/0e751e7470607135d113c5765010627f/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+163    </application>
+164
+165</manifest>

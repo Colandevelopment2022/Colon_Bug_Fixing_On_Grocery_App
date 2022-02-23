@@ -10,7 +10,7 @@ import 'package:toast/toast.dart';
 class BaseNotifier extends ChangeNotifier {
   final log = getLogger('BaseNotifier');
 
-  bool _isLoading = true;
+  bool _isLoading = false;
   var context;
 
   //getter

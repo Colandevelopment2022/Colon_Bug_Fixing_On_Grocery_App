@@ -284,8 +284,10 @@ class MyProfileState extends State<MyProfile> {
                   onPressed: null),
               onTap: () {
                 switch (whichCardClick) {
+
                   case 1: // Basic Information
                     //  Navigator.push(context, MaterialPageRoute(builder: (context) => EditProfile()));
+                    print('tab');
                     Navigator.of(context)
                         .pushNamed(EditProfile.routeName,
                             arguments: ProfileInfo(
